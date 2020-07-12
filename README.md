@@ -1,0 +1,2 @@
+# GARCH
+GARCH model implementation
