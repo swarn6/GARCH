@@ -1,3 +1,3 @@
 # GARCH
 GARCH model implementation.
-Forecastind volatility of Google's asset returns.
+Forecasting volatility of Google's asset returns.
